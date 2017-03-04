@@ -1,0 +1,30 @@
+{
+    "name": "ooo-excuse",
+    "version": "1.0.0",
+    "description": "Want a day off? Work remote? Spend the day doing anything else? Run this tool and get the best excuses! Remember too much detail comes across as a lie! :D",
+    "main": "index.js",
+    "bin": {
+        "ooo-excuse": "index.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "fun",
+        "jokes",
+        "work from home",
+        "call out sick",
+        "mental health day",
+        "node",
+        "cli"
+    ],
+    "author": "Simon James <james@pocostud.io>",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jamesvsshark/ooo-excuse.git"
+    },
+    "dependencies": {
+        "commander": "^2.9.0"
+    }
+}
